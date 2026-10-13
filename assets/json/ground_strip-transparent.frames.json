@@ -1,0 +1,29 @@
+{
+  "image": "/generated-assets/ground_strip-transparent.webp",
+  "grid": {
+    "cols": 1,
+    "rows": 1,
+    "frameWidth": 1536,
+    "frameHeight": 239
+  },
+  "frames": [
+    {
+      "name": "Storybook Ground Strip",
+      "source": {
+        "x": 0,
+        "y": 0,
+        "w": 1536,
+        "h": 239
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 1536,
+        "h": 239
+      },
+      "anchor": null,
+      "surfaceEdge": "top",
+      "surfaceY": 82
+    }
+  ]
+}
